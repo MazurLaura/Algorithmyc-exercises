@@ -759,7 +759,7 @@ console.log(longString(['', 'abcdhegahiopédkfhebcnsmsldjfiroema', '', 'alma', '
 //Egy szó leggyakrabban ismételt betűit kiszedni: 'kakas' vagy 'ortodox'
 
 function motsCommon(string) {
-  // NNNEEEMMMM TUDDDOOOOOMMMMMM :( :( :( :(
+
 }
 
 console.log();
